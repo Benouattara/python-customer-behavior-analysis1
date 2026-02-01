@@ -1,0 +1,31 @@
+order_id,customer_id,order_date,status,payment_method
+1001,1,2023-02-10,Completed,Credit Card
+1002,2,2023-02-11,Completed,PayPal
+1003,1,2023-03-05,Completed,Credit Card
+1004,3,2023-03-12,Cancelled,PayPal
+1005,4,2023-04-01,Completed,Credit Card
+1006,5,2023-04-15,Completed,Bank Transfer
+1007,6,2023-04-20,Completed,Credit Card
+1008,7,2023-05-02,Completed,PayPal
+1009,8,2023-05-10,Completed,Credit Card
+1010,9,2023-05-18,Cancelled,PayPal
+1011,10,2023-06-01,Completed,Credit Card
+1012,11,2023-06-04,Completed,PayPal
+1013,12,2023-06-15,Completed,Bank Transfer
+1014,13,2023-06-20,Completed,Credit Card
+1015,14,2023-07-01,Completed,PayPal
+1016,15,2023-07-05,Completed,Credit Card
+1017,16,2023-07-10,Completed,Credit Card
+1018,17,2023-07-18,Cancelled,PayPal
+1019,18,2023-08-02,Completed,Credit Card
+1020,19,2023-08-08,Completed,PayPal
+1021,20,2023-08-15,Completed,Credit Card
+1022,21,2023-08-20,Completed,PayPal
+1023,22,2023-09-01,Completed,Bank Transfer
+1024,23,2023-09-07,Completed,Credit Card
+1025,24,2023-09-14,Completed,PayPal
+1026,25,2023-09-20,Completed,Credit Card
+1027,26,2023-10-01,Completed,PayPal
+1028,27,2023-10-05,Completed,Credit Card
+1029,28,2023-10-10,Completed,Credit Card
+1030,29,2023-10-18,Completed,PayPal

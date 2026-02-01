@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+101,Laptop Pro,Electronics,1200
+102,Wireless Mouse,Electronics,25
+103,Office Chair,Furniture,180
+104,Standing Desk,Furniture,450
+105,Monitor 27,Electronics,320
+106,Keyboard,Electronics,70
+107,USB-C Hub,Electronics,60
+108,Desk Lamp,Furniture,45
+109,Noise Cancelling Headset,Electronics,210
+110,Webcam HD,Electronics,95
+111,Notebook Set,Stationery,15
+112,Pen Premium,Stationery,5
+113,Backpack Pro,Accessories,130
+114,Phone Stand,Accessories,20
+115,Power Bank,Electronics,50
